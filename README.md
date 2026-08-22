@@ -1,6 +1,6 @@
 ## Olá, eu sou o Douglas Leonardo! 👋
 
-- 🎓 Estudante de Desenvolvimento de Sistemas
+- 🎓 Estudante de Desenvolvimento de Sistemas e Tecnologia em Jogos Digitais
 - 🚀 Estudando para ser um futuro desenvolvedor de jogos digitais
 - 🎨 Praticando Pixel Art para criação e animação de assets 2D
 - 🎸 Apaixonado por música e baixista nas horas vagas
