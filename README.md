@@ -21,4 +21,4 @@
 
 ### 📬 Contato:
 
-[![Gmail](https://img.shields.io/badge/douglas12997065910@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglas12997065910@gmail.com)
+[![Gmail](https://img.shields.io/badge/douglas12997065910@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:douglas12997065910@gmail.com)
