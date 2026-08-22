@@ -1,5 +1,11 @@
-markdown
 ## Olá, eu sou o Douglas Leonardo! 👋
+
+- 🎓 Estudante de Desenvolvimento de Sistemas
+- 🚀 Estudando para ser um futuro desenvolvedor de jogos digitais
+- 🎨 Praticando Pixel Art para criação e animação de assets 2D
+- 🎸 Apaixonado por música e baixista nas horas vagas
+
+---
 
 ### 💻 Focado nas tecnologias:
 
@@ -13,8 +19,6 @@ markdown
 
 ---
 
-- 🎓 Estudante de Desenvolvimento de Sistemas
-- 🚀 Estudando muito para ser um futuro desenvolvedor de jogos digitais
-- 🎨 Praticando Pixel Art para criação e animação de assets 2D
-- 🎸 Apaixonado por música e baixista nas horas vagas
-- ✉️ Contato: douglas12997065910@gmail.com
+### 📬 Contato:
+
+[![Gmail](https://img.shields.io/badge/douglas12997065910@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglas12997065910@gmail.com)
